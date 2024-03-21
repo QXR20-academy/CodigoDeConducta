@@ -9,6 +9,11 @@ En QXR20.academy, nos dedicamos a fomentar un ambiente de capacitación inclusiv
 3. **Colaboración**: Creemos en el poder de trabajar juntos. Fomentamos la colaboración y esperamos que todos los miembros de nuestra comunidad contribuyan de manera positiva.
 4. **Integridad**: Nos esforzamos por actuar con honestidad y transparencia en todo lo que hacemos.
 
+## Ciudadanía abierta [Fuente/Cultura/Tecnología]
+- Un objetivo complementario de este Código de Conducta es aumentar la ciudadanía abierta [fuente/cultura/tecnología] alentando a los participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
+- Las comunidades son un reflejo de las sociedades en las que existen y la acción positiva es esencial para contrarrestar las múltiples formas de desigualdad y los abusos de poder que existen en la sociedad.
+- Si ve a alguien que está haciendo un esfuerzo adicional para garantizar que nuestra comunidad sea acogedora, amigable y aliente a todos los participantes a contribuir en la mayor medida posible, queremos saberlo.
+
 ## Comportamiento Esperado
 - Participa de manera activa y positiva.
 - Trata a los demás con respeto y consideración.
